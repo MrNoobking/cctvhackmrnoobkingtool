@@ -16,6 +16,22 @@ chmod +x *
 ./install.sh
 ========
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ========
 Termux
 pkg update
