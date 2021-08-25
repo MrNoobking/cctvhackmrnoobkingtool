@@ -1,4 +1,4 @@
-chmod +777 webhackv2
+chmod +x *
 pip3 install requests
 clear
 
